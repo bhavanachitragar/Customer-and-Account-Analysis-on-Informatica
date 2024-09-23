@@ -1,0 +1,9 @@
+Create table Account (
+Acc_ID	Number(10),
+Type	VARCHAR2(10),
+Balance	Number(15,2),
+Begin_Balance	Number(15,2),
+Begin_Bal_Timestamp Timestamp
+);
+
+

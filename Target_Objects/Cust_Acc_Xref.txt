@@ -1,0 +1,1 @@
+Create table Cust_Acc_Xref (Cust_ID Number(10),Acc_ID Number(10));

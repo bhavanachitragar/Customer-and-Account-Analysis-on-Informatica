@@ -1,0 +1,10 @@
+Create table Transactions (
+Trans_ID	Number(10), 
+Acc_ID		Number(10),
+Time_Stamp	Timestamp,
+Amount		Number(15,2),
+Trans_Type	VARCHAR2(10)
+);
+
+				
+

@@ -1,0 +1,13 @@
+Create table Customer (
+Cust_ID		Number(10), 
+First_Name	VARCHAR2(50),
+Last_Name	VARCHAR2(50),
+Street		VARCHAR2(100),
+City		VARCHAR2(20),
+State		VARCHAR2(20),
+zip		Number(10),
+phone		Number(10),
+email		VARCHAR2(100),
+Version		Number(10)
+);
+
